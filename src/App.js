@@ -3,8 +3,8 @@ import './App.css';
 import Getdate from './Getdate';
 
 const App = () => {
-  // const API_KEY = "6d81b48";
-  const API_KEY = process.env.REACT_APP_WEATHER_API_KEY;
+  const API_KEY = "b4b433c0812268540c08b4d916d81b48";
+  //const API_KEY = process.env.REACT_APP_WEATHER_API_KEY;
   // const API_KEY = `${process.env.REACT_APP_API_KEY}`
   // console.log("API", API_KEY)
   // // const APP_CITY = "Lagos";
